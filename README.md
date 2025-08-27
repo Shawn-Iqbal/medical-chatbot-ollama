@@ -105,7 +105,3 @@ medical-chatbot/
 ## 📜 License
 
 MIT License – feel free to use and modify for your own projects.
-
----
-
-Would you like me to also generate a **ready-to-use `requirements.txt`** file for this chatbot so you can run it immediately?
